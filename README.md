@@ -52,7 +52,7 @@
 ###
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshVadel09&layout=normal&langs_count=6&theme=dark)
+![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevanshVadel09&layout=normal&langs_count=6&theme=dark&title_color=58A6FF)
 
 
 
