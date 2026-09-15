@@ -51,6 +51,10 @@
 
 ###
 
+## Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=normal&langs_count=6)](https://github.com/YOUR_USERNAME)
+
 
 ###
 
