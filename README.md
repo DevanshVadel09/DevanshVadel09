@@ -50,7 +50,6 @@
 <img align="Left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY0bXJlcjVwdGhuZGVvNjRhOHh6YnN5cXdtcWdnNDh5N2pjaGN4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevanshVadel09&show_icons=true&theme=transparent)
 
 ###
 
