@@ -51,9 +51,9 @@
 
 ###
 
-## Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshVadel09&layout=normal&langs_count=6)](https://github.com/YOUR_USERNAME)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshVadel09&layout=normal&langs_count=6&theme=dark)
+
 
 
 ###
